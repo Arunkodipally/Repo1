@@ -1,2 +1,7 @@
 This is the first git
+<<<<<<< HEAD
 This is the change gits.
+=======
+This is the changed commit
+This is the third commit
+>>>>>>> bad61d1d4bb93e5f83afbd128553743b43cf976b
