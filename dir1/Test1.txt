@@ -1,2 +1,2 @@
 This is the first git
-This is the change gits
+This is the change gits.
